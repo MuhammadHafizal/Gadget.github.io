@@ -1,2 +1,2 @@
-# OPTIMIZING-CUSTOMER-EXPERIENCE-IN-E-COMMERCE-A-CASE-STUDY-OF-GADGETGALAXY-ONLINE-STORE
-Website tentang MENGOPTIMALKAN PENGALAMAN PELANGGAN DALAM E-COMMERCE: STUDI KASUS TOKO ONLINE 'GADGETGALAXY'
+# online_gadget
+Project website toko online gadget dengan menggunakan Bahasa Pemrograman PHP (Native), HTML, Bootstrap (CSS) dan JavaScript
